@@ -3,4 +3,12 @@
 
 <h2 align="center">Making and order and tracking it:</h1>
 
-<h2 align="center">Making and order and removing something from it</h1>
+https://github.com/siya-pathak/aria-food-ordering-chatbot/assets/98201597/25a34eda-84a0-47b5-b3bb-4cf6d46a5d6d
+
+
+
+<h2 align="center">Making an order and removing something from it:</h1>
+
+
+https://github.com/siya-pathak/aria-food-ordering-chatbot/assets/98201597/0eb5a7d4-e91e-4c3f-85fb-1a8dd2302e13
+
