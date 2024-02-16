@@ -6,12 +6,24 @@
 
 <div align="center">
   <h1>Making an order and tracking it:</h1>
-  https://github.com/siya-pathak/aria-food-ordering-chatbot/assets/98201597/b2a9b5d2-ea4c-42f9-8a83-860059cf39c9
+ 
+
+https://github.com/siya-pathak/aria-food-ordering-chatbot/assets/98201597/190fee35-c220-4163-8b43-6b24fc955630
+
+
 
 </div>
 
 <div align="center">
   <h1>Removing items after placing order:</h1>
-https://github.com/siya-pathak/aria-food-ordering-chatbot/assets/98201597/c68890f1-0508-4962-9112-01c0f9c0ad8d
+https://github.com/siya-pathak/aria-food-ordering-chatbot/assets/98201597/99c3a7c6-248e-482e-8499-18d956ce19c3
 </div>
+
+## Update in database after placing order 45
+<img width="239" alt="Screenshot 2024-02-16 at 4 16 13 PM" src="https://github.com/siya-pathak/aria-food-ordering-chatbot/assets/98201597/9a9f49a2-5d67-4fdd-9085-312aa145e149">
+
+
+## Update in database after placing order 46
+<img width="250" alt="Screenshot 2024-02-16 at 4 18 53 PM" src="https://github.com/siya-pathak/aria-food-ordering-chatbot/assets/98201597/54f6fd6f-8de5-49f9-9b54-2c3d369ab3e4">
+
 
