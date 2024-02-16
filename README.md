@@ -4,10 +4,14 @@
 </div>
 
 
-https://github.com/siya-pathak/aria-food-ordering-chatbot/assets/98201597/b2a9b5d2-ea4c-42f9-8a83-860059cf39c9
+<div align="center">
+  <h1>Making an order and tracking it:</h1>
+  https://github.com/siya-pathak/aria-food-ordering-chatbot/assets/98201597/b2a9b5d2-ea4c-42f9-8a83-860059cf39c9
 
+</div>
 
-
+<div align="center">
+  <h1>Removing items after placing order:</h1>
 https://github.com/siya-pathak/aria-food-ordering-chatbot/assets/98201597/c68890f1-0508-4962-9112-01c0f9c0ad8d
-
+</div>
 
