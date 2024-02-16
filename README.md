@@ -16,7 +16,11 @@ https://github.com/siya-pathak/aria-food-ordering-chatbot/assets/98201597/190fee
 
 <div align="center">
   <h1>Removing items after placing order:</h1>
-https://github.com/siya-pathak/aria-food-ordering-chatbot/assets/98201597/99c3a7c6-248e-482e-8499-18d956ce19c3
+
+
+https://github.com/siya-pathak/aria-food-ordering-chatbot/assets/98201597/6ada30a1-1710-42fd-9ad3-3d0808561b93
+
+
 </div>
 
 ## Update in database after placing order 45
