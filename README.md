@@ -6,14 +6,20 @@
 <div align="center">
   <h2>Making and order and tracking it:</h2>
   <video width="400" controls>
-    <source src="https://github.com/siya-pathak/aria-food-ordering-chatbot/assets/98201597/25a34eda-84a0-47b5-b3bb-4cf6d46a5d6d" type="video/mp4">
-    Your browser does not support the video tag.
+    
+
+https://github.com/siya-pathak/aria-food-ordering-chatbot/assets/98201597/978e5a72-e2bf-4077-ba39-f832398a5cc6
+
+
   </video>
 
   <h2>Making an order and removing something from it:</h2>
   <video width="400" controls>
-    <source src="https://github.com/siya-pathak/aria-food-ordering-chatbot/assets/98201597/0eb5a7d4-e91e-4c3f-85fb-1a8dd2302e13" type="video/mp4">
-    Your browser does not support the video tag.
+    
+
+https://github.com/siya-pathak/aria-food-ordering-chatbot/assets/98201597/c1dc5340-3844-4c68-9cea-fcad37cfce52
+
+
   </video>
 </div>
 
